@@ -1,0 +1,28 @@
+body { 
+	background:url('wallpaper.jpg') no-repeat; 
+
+}
+.container hr{
+	color : orange;
+}
+
+.container h1{
+	color : #FCFBFC;
+	text-shadow: 0.1em 0.1em 0.3em black;
+}
+
+.container h2{
+	color : #FCFBFC;
+	text-shadow: 0.1em 0.1em 0.2em black;
+}
+
+.container img{
+	box-shadow: box-shadow: 1px 1px 12px black;
+}
+
+.container li{
+	color : #FCFBFC;
+	text-shadow: 0.1em 0.1em 0.1em black;
+	font-size:150%;	
+}
+
