@@ -1,5 +1,8 @@
 body { 
-	background:url('wallpaper.jpg') no-repeat; 
+	background: linear-gradient(
+ 	rgba(0, 0, 0, 0.45), 
+ 	rgba(0, 0, 0, 0.45)
+ 	),url('wallpaper.jpg') no-repeat; 
 
 }
 .container hr{
@@ -8,12 +11,12 @@ body {
 
 .container h1{
 	color : #FCFBFC;
-	text-shadow: 0.1em 0.1em 0.3em black;
+	text-shadow: 0.4em 0.4em 0.6em black;
 }
 
 .container h2{
 	color : #FCFBFC;
-	text-shadow: 0.1em 0.1em 0.2em black;
+	text-shadow: 0.4em 0.4em 0.5em black;
 }
 
 .container img{
