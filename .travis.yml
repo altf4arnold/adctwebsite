@@ -14,8 +14,6 @@ install:
 
 script:
   - ./manage.py check
-  - py.test
-
 
 notifications:
   email:
