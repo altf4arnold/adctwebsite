@@ -1,8 +1,9 @@
 body { 
 	background: linear-gradient(
- 	rgba(0, 0, 0, 0.45), 
- 	rgba(0, 0, 0, 0.45)
- 	),url('wallpaper.jpg') no-repeat; 
+ 	rgba(0, 0, 0, 0.70), 
+ 	rgba(0, 0, 0, 0.70)
+ 	),url('wallpaper.jpg') no-repeat center ; 
+ 	background-size: 100%;
 
 }
 .container hr{
